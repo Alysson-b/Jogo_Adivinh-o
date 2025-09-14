@@ -1,4 +1,4 @@
-# 🎮 Jogo de Adivinhação - Rockstech
+# 🎮 Jogo de Adivinhação -
 
 Um jogo interativo de adivinhação de palavras feito com **React + TypeScript + CSS**, desenvolvido durante os estudos na **Rockstech**.  
 O objetivo é descobrir a palavra correta relacionada ao mundo da **programação**, com base em dicas fornecidas.  
